@@ -83,6 +83,3 @@ jupyter notebook notebook.ipynb
 This project is open-source and available under the MIT License.
 
 ---
-
-### Short GitHub "About" Description (one-liner)
-> Machine learning model to predict diabetes in patients using the Pima Indians Diabetes dataset and Gradient Boosting.
