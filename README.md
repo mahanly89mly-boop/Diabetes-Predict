@@ -74,7 +74,7 @@ diabetes-prediction/
 
 ```bash
 pip install -r requirements.txt
-pip install nump , pandas , scikit-learn , matplotib , seaborn
+pip install numpy , pandas , scikit-learn , matplotib , seaborn
 jupyter notebook notebook.ipynb
 ```
 
