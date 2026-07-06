@@ -62,8 +62,8 @@ Model performance was evaluated and visualized using plots such as:
 ```
 diabetes-prediction/
 │
-├── notebook.ipynb          # Main analysis & modeling notebook
-├── data/                    # Dataset files
+├── Dibetes.ipynb          # Main analysis & modeling notebook
+├── diabetes.csv/                    # Dataset files
 ├── images/
         Confusion Matrix , Precision-Recall Curve , Receiver Operating Characteristic (ROC) Curve   # Output plots (confusion Precision, ROC.)
 ├── requirements.txt          # Project dependencies
@@ -74,6 +74,7 @@ diabetes-prediction/
 
 ```bash
 pip install -r requirements.txt
+pip install nump , pandas , scikit-learn , matplotib , seaborn
 jupyter notebook notebook.ipynb
 ```
 
@@ -81,5 +82,7 @@ jupyter notebook notebook.ipynb
 
 This project is open-source and available under the MIT License.
 
----### Short GitHub "About" Description (one-liner)
+---
+
+### Short GitHub "About" Description (one-liner)
 > Machine learning model to predict diabetes in patients using the Pima Indians Diabetes dataset and Gradient Boosting.
